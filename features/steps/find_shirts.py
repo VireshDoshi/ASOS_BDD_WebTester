@@ -4,7 +4,7 @@ from behave import *
 @given('I want to order a shirt')
 def step_impl(context):
     context.driver.get("http://www.asos.com")
-    print(context.driver.title)
+    context.implicitly_wait(10)
     assert "ASOS" in context.driver.title
 
 
@@ -12,6 +12,7 @@ def step_impl(context):
 @when('I search for purple t shirts')
 def step_impl(context):
     searchBox = context.driver.find_element_by_class_name("search-box")
+    print(searchBox.text)
     searchBox.clear()
     searchBox.send_keys("purple shirt")
     searchBox.send_keys(context.keys.RETURN)
@@ -19,5 +20,9 @@ def step_impl(context):
 
 @then('I should see some purple t shirts')
 def step_impl(context):
+    # import time
+    # time.sleep(2)
+    print (context.driver.current_url)
+    assert context.driver.current_url == 'http://www.asos.com/search/purple-shirt?q=purple+shirt'
     pass
     # context.driver.quit()
