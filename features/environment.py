@@ -10,18 +10,20 @@ from selenium.common.exceptions import TimeoutException
 
 
 
+
 def before_all(context):
-  driver = webdriver.Firefox()
-  context.driver = driver
-  context.driver.implicitly_wait(10)
-  context.keys = Keys
-  context.WebDriverWait = WebDriverWait
-  context.EC = EC
-  context.TimeoutException = TimeoutException
-  context.ActionChains = ActionChains
+    driver = webdriver.Firefox()
+    context.driver = driver
+    context.driver.implicitly_wait(10)
+    context.keys = Keys
+    context.WebDriverWait = WebDriverWait
+    context.EC = EC
+    context.TimeoutException = TimeoutException
+    context.ActionChains = ActionChains
 
 
 def after_all(context):
-  context.driver.quit()
+    context.driver.quit()
+    # pass
 # purple = context.driver.find_element_by_xpath('//div[@class="facetvalue-name" and text()="Purple"]')
 # //div[8]/div/div/ul/li[13]/a/span[2]
