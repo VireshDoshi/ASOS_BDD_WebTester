@@ -21,7 +21,7 @@ def before_all(context):
   context.ActionChains = ActionChains
 
 
-# def after_all(context):
-#   context.driver.quit()
+def after_all(context):
+  context.driver.quit()
 # purple = context.driver.find_element_by_xpath('//div[@class="facetvalue-name" and text()="Purple"]')
 # //div[8]/div/div/ul/li[13]/a/span[2]
