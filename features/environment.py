@@ -1,4 +1,3 @@
-from seleniumWrapper import SeleniumWrapper
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
@@ -24,6 +23,3 @@ def before_all(context):
 
 def after_all(context):
     context.driver.quit()
-    # pass
-# purple = context.driver.find_element_by_xpath('//div[@class="facetvalue-name" and text()="Purple"]')
-# //div[8]/div/div/ul/li[13]/a/span[2]
