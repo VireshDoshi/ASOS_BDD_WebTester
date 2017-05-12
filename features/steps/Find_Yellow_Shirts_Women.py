@@ -13,7 +13,7 @@ def step_impl(context):
 
 @when('I refine by gender - women')
 def step_impl(context):
-    women = context.driver.find_element_by_xpath("//div[@class='facetvalue-name' and text()='WOMEN']")
+    women = context.driver.find_element_by_xpath("//section[@id='productlist-results']/aside/div/div/div/ul/li[2]/a/span[2]")
     #TODO - Find this XPath
 
     actions = context.ActionChains(context.driver)
