@@ -20,6 +20,13 @@ Finally, we'll need to install gekodriver from :
 https://github.com/mozilla/geckodriver/releases
  (place this in your python directory).
 
+TO RUN:
+In terminal / cmd
+```
+behave
+```
+
+
 
 
 Tests start with writing "Feature" files that use plain english to describe the steps of your test. Features use keywords to form the actual steps being taken in the test:
