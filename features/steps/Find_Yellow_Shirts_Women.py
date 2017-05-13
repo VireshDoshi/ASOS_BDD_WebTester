@@ -13,7 +13,7 @@ def step_impl(context):
 
 
 
-@when('I refine by "{gender}"')
+@when('I refine by "{searchTerm}"')
 def step_impl(context, searchTerm):
     if searchTerm == 'women':
         gender = context.driver.find_element_by_xpath("//section[@id='productlist-results']/aside/div/div/div/ul/li[2]/a/span[2]")

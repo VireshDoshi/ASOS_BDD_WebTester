@@ -11,7 +11,7 @@ from selenium.common.exceptions import TimeoutException
 
 import time
 
-def before_all(context):
+def before_scenario(context, scenario):
     driver = webdriver.Firefox()
     context.driver = driver
     context.driver.implicitly_wait(10)
@@ -24,6 +24,6 @@ def before_all(context):
     context.time = time
 
 
-def after_all(context):
+def after_scenario(context, scenario):
     #Quit the driver after each test has been ran.
     context.driver.quit()

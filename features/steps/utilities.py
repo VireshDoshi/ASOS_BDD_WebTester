@@ -46,7 +46,6 @@ def checkSavedItems(driver):
 
     #Find all the saved items in a list
     listOfSavedItems = driver.find_elements_by_class_name('savedItem-item-messages')
-    print('items',listOfSavedItems )
     if len(listOfSavedItems) > 0:
         print('Success!! ---> Found saved item in product names')
         return True
