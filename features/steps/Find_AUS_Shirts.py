@@ -20,7 +20,7 @@ def step_impl(context):
 
 @when('I search for yellow t shirts')
 def step_impl(context):
-    websiteAddress = "http://www.asos.com/"
+    websiteAddress = "http://www.asos.com/au/"
     time.sleep(2)
     assert websiteAddress in context.driver.current_url
 
@@ -39,7 +39,7 @@ def step_impl(context):
 
 #not convinced this is the best way of confirming the new page but it's a start
 #TODO - think of a better method
-@when('I should see some yellow t shirts')
+@then('I should see some yellow t shirts')
 def step_impl(context):
     #Loop through the items displayed on the page to see if they contain the word Purple
     UT.checkIfItemsArePresent(context.driver, 'name', 'yellow', True)

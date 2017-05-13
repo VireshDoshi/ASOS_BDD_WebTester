@@ -5,6 +5,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.support.ui import Select
 
 
 
@@ -19,7 +20,9 @@ def before_all(context):
     context.EC = EC
     context.TimeoutException = TimeoutException
     context.ActionChains = ActionChains
+    context.Select = Select
 
 
 def after_all(context):
     context.driver.quit()
+    # pass

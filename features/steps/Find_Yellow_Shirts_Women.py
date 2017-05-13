@@ -11,13 +11,15 @@ def step_impl(context):
 
 
 
-@when('I refine by gender - women')
-def step_impl(context):
-    women = context.driver.find_element_by_xpath("//section[@id='productlist-results']/aside/div/div/div/ul/li[2]/a/span[2]")
-    #TODO - Find this XPath
+@when('I refine by "{gender}"')
+def step_impl(context, searchTerm):
+    if searchTerm == 'women':
+        gender = context.driver.find_element_by_xpath("//section[@id='productlist-results']/aside/div/div/div/ul/li[2]/a/span[2]")
+    elif searchTerm == 'men':
+        gender = context.driver.find_element_by_xpath("//section[@id='productlist-results']/aside/div/div/div/ul/li/a/span[2]")
 
     actions = context.ActionChains(context.driver)
-    actions.click(women)
+    actions.click(gender)
     actions.perform()
 
 
