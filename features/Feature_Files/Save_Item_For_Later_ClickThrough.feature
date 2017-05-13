@@ -1,4 +1,4 @@
-Feature: Use the website to save an item for later.
+Feature:Use the website to save an item for later.
         So that I can order a shirt
         As a customer
         I want to be able to save an item for later

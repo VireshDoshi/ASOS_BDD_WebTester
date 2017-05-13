@@ -6,5 +6,5 @@ Feature: Use the website to change how search results are displayed    
     Scenario: Display search results of yellow shirts for women
         Given I want to order a shirt
         When I search for yellow t shirts in the searchbar
-        And I refine by "men"
+        And I refine by "women"
         Then I should see some yellow t shirts for women

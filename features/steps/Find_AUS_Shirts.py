@@ -1,8 +1,7 @@
 from behave import *
-import time
 import utilities as UT
 
-#TODO - remove time.sleep
+
 
 
 #Given is located in Find_Purple_Shirts_ClickThrough.py
@@ -18,31 +17,29 @@ def step_impl(context):
     actions.click(aus)
     actions.perform()
 
+    context.websiteAddress = "http://www.asos.com/au/"
+    context.time.sleep(2)
+    assert context.websiteAddress in context.driver.current_url
+
 @when('I search for yellow t shirts')
 def step_impl(context):
-    websiteAddress = "http://www.asos.com/au/"
-    time.sleep(2)
-    assert websiteAddress in context.driver.current_url
-
+    #Get to the mens shirts page
     try:
-        UT.clickOnMensShirts(context.driver, context.ActionChains, websiteAddress)
+        UT.clickOnMensShirts(context.driver, context.ActionChains, context.websiteAddress)
     except:
         raise Exception("Failed to click on shirts")
 
+    #Click on the yellow shirts checkbox
     try:
         yellow = context.driver.find_element_by_xpath("//section[@id='productlist-results']/aside/div[8]/div/div/ul/li[19]/a/span[2]")
         yellow.click()
     except:
         raise Exception("Cannot Click on Yellow Checkbox")
 
-
-
-#not convinced this is the best way of confirming the new page but it's a start
-#TODO - think of a better method
 @then('I should see some yellow t shirts')
 def step_impl(context):
-    #Loop through the items displayed on the page to see if they contain the word Purple
-    UT.checkIfItemsArePresent(context.driver, 'name', 'yellow', True)
+    #Loop through the items displayed on the page to see if they contain the word yellow
+    assert UT.checkIfItemsArePresent(context.driver, 'name', 'yellow', True)
 
 
 

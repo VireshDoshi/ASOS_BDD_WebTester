@@ -1,33 +1,30 @@
 from behave import *
-
 import utilities as UT
+
+
+
 
 @given('I want to order a shirt')
 def step_impl(context):
-    context.driver.get("http://www.asos.com")
-    assert "ASOS" in context.driver.title
-
-
+    context.webAddress = "http://www.asos.com/"
+    context.driver.get(context.webAddress)
+    assert context.webAddress in context.driver.current_url
 
 @when('I search for purple t shirts')
 def step_impl(context):
-    websiteAddress = "http://www.asos.com/"
-    UT.clickOnMensShirts(context.driver, context.ActionChains, websiteAddress)
+    UT.clickOnMensShirts(context.driver, context.ActionChains, context.webAddress)
 
+    #Click on the purple checkbox
     try:
         purple = context.driver.find_element_by_xpath('//div[8]/div/div/ul/li[13]/a/span[1]')
         purple.click()
     except:
         raise Exception("Cannot Click on Purple Checkbox")
 
-
-
-#not convinced this is the best way of confirming the new page but it's a start
-#TODO - think of a better method
 @then('I should see some purple t shirts')
 def step_impl(context):
     #Loop through the items displayed on the page to see if they contain the word Purple
-    UT.checkIfItemsArePresent(context.driver, 'name', 'purple', True)
+    assert UT.checkIfItemsArePresent(context.driver, 'name', 'purple', True)
 
 
 

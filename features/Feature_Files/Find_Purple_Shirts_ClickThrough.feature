@@ -1,4 +1,4 @@
-Feature: Use the website to find shirts
+Feature:Use the website to find shirts
         So that I can order a shirt
         As a customer
         I want to be able to find t shirts
