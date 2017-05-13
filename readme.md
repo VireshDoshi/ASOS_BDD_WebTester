@@ -29,7 +29,7 @@ https://github.com/mozilla/geckodriver/releases
 TO RUN:
 In terminal / cmd
 ```
-cd PATH/TO/THIS/webTester/features
+cd PATH/TO/THIS/ASOS_BDD_WebTester/features
 behave
 ```
 
