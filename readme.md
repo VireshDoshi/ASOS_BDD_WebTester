@@ -15,16 +15,24 @@ Next, we'll need to install Selenium:
 ```
 pip install selenium
 ```
+Install Firefox:
+https://www.mozilla.org/en-GB/firefox/new/
+
 
 Finally, we'll need to install gekodriver from :
 https://github.com/mozilla/geckodriver/releases
  (place this in your python directory).
 
+
+
+
 TO RUN:
 In terminal / cmd
 ```
+cd PATH/TO/THIS/webTester/features
 behave
 ```
+
 
 
 
