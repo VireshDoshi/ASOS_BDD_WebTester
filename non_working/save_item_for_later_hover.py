@@ -2,25 +2,25 @@ from behave import *
 import utilities as UT
 
 
-@given('I want to order a shirt from the australlian store')
-def step_impl(context):
-    context.driver.get("http://www.asos.com/au/")
-    assert "ASOS" in context.driver.title
+# @given('I want to order a shirt from the australlian store')
+# def step_impl(context):
+#     context.driver.get("http://www.asos.com/au/")
+#     assert "ASOS" in context.driver.title
 
 
 
 
-@when('I search for purple t shirts AUS')
-def step_impl(context):
-    websiteAddress = "http://www.asos.com/au/"
-    UT.clickOnMensShirts(context.driver, context.ActionChains, websiteAddress)
-    import time
-    time.sleep(60)
-    try:
-        purple = context.driver.find_element_by_xpath('//div[8]/div/div/ul/li[13]/a/span[1]')
-        purple.click()
-    except:
-        raise Exception("Cannot Click on Purple Checkbox")
+# @when('I search for purple t shirts AUS')
+# def step_impl(context):
+#     websiteAddress = "http://www.asos.com/au/"
+#     UT.clickOnMensShirts(context.driver, context.ActionChains, websiteAddress)
+#     import time
+#     time.sleep(60)
+#     try:
+#         purple = context.driver.find_element_by_xpath('//div[8]/div/div/ul/li[13]/a/span[1]')
+#         purple.click()
+#     except:
+#         raise Exception("Cannot Click on Purple Checkbox")
 #
 #
 # @when('I click on the save symbol')

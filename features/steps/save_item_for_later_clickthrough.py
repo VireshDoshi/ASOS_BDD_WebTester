@@ -14,13 +14,13 @@ def step_impl(context):
 def step_impl(context):
     websiteAddress = "http://www.asos.com/au/"
     UT.clickOnMensShirts(context.driver, context.ActionChains, websiteAddress)
-    import time
-    time.sleep(60)
-    try:
-        purple = context.driver.find_element_by_xpath('//div[8]/div/div/ul/li[13]/a/span[1]')
-        purple.click()
-    except:
-        raise Exception("Cannot Click on Purple Checkbox")
+    # 
+    # context.time.sleep(6)
+    # try:
+    #     purple = context.driver.find_element_by_xpath('//div[8]/div/div/ul/li[13]/a/span[1]')
+    #     purple.click()
+    # except:
+    #     raise Exception("Cannot Click on Purple Checkbox")
 
 
 

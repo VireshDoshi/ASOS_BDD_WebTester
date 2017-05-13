@@ -2052,3 +2052,757 @@ JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bund
 JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
 JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
 1494664351150	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1494666399724	geckodriver	INFO	Listening on 127.0.0.1:50297
+1494666400785	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.6ROrv8FeuPTK
+1494666400786	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494666400789	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50310
+1494666402308	Marionette	INFO	Listening on port 50310
+1494666402351	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 10:06:42.670 plugin-container[875:14832] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 10:06:42.672 plugin-container[875:14832] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494666468334	geckodriver	INFO	Listening on 127.0.0.1:50473
+1494666469394	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.XzZ88NeoSPTm
+1494666469395	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494666469398	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50486
+1494666470917	Marionette	INFO	Listening on port 50486
+1494666470963	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 10:07:51.295 plugin-container[895:16017] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 10:07:51.297 plugin-container[895:16017] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494666495409	Marionette	INFO	New connections will no longer be accepted
+1494689394301	geckodriver	INFO	Listening on 127.0.0.1:50853
+1494689395359	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.QTtSQhqDBU8n
+1494689395360	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494689395364	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50867
+1494689396935	Marionette	INFO	Listening on port 50867
+1494689397031	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 16:29:57.292 plugin-container[978:25540] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 16:29:57.294 plugin-container[978:25540] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript error: https://assets.asosservices.com/identity/widgets/standalone/sdk.1.0.1.js, line 9113: TypeError: oidc.customer(...) is undefined
+JavaScript error: https://assets.asosservices.com/identity/widgets/standalone/sdk.1.0.1.js, line 9113: TypeError: oidc.customer(...) is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494689423777	Marionette	INFO	New connections will no longer be accepted
+1494689663245	geckodriver	INFO	Listening on 127.0.0.1:51176
+1494689664306	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.FOZdoKB2PSsR
+1494689664307	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494689664310	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51189
+1494689665863	Marionette	INFO	Listening on port 51189
+1494689665907	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 16:34:26.247 plugin-container[1033:27728] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 16:34:26.250 plugin-container[1033:27728] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494689689896	Marionette	INFO	New connections will no longer be accepted
+1494689780464	geckodriver	INFO	Listening on 127.0.0.1:51394
+1494689781521	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.SX0ZCPx5Vn5o
+1494689781522	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494689781525	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51407
+1494689783071	Marionette	INFO	Listening on port 51407
+1494689783118	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 16:36:23.446 plugin-container[1052:29032] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 16:36:23.448 plugin-container[1052:29032] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494689806892	Marionette	INFO	New connections will no longer be accepted
+[Child 1052] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1494689914304	geckodriver	INFO	Listening on 127.0.0.1:51761
+1494689915361	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.QfN8kQJjtMym
+1494689915362	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494689915364	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51775
+1494689916865	Marionette	INFO	Listening on port 51775
+1494689916936	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 16:38:37.229 plugin-container[1073:30316] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 16:38:37.231 plugin-container[1073:30316] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+console.error: 
+  Message: Error: Source map at http://assets.asosservices.com/MasterLayout/Stylesheets/MasterLayout/Asos.Utils.MediaPlayers.min.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:579:27
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+_fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:579:27
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+console.error: 
+  Protocol error (unknownError): Source map at http://assets.asosservices.com/MasterLayout/Stylesheets/MasterLayout/Asos.Utils.MediaPlayers.min.css.map not found or invalid
+TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+_fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:458:19
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+Line: 1281, column: 20
+console.error: 
+  TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+_fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:458:19
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+Line: 1281, column: 20
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 996: TypeError: this._refMap is null
+1494690216009	geckodriver	INFO	Listening on 127.0.0.1:52221
+1494690217064	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.JbsjPa8sP1L4
+1494690217065	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494690217067	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52234
+1494690218723	Marionette	INFO	Listening on port 52234
+1494690218824	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 16:43:39.094 plugin-container[1093:32296] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 16:43:39.096 plugin-container[1093:32296] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494690258287	geckodriver	INFO	Listening on 127.0.0.1:52420
+1494690259349	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.NewXJUeombVz
+1494690259350	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494690259352	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52433
+1494690260904	Marionette	INFO	Listening on port 52433
+1494690260949	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 16:44:21.276 plugin-container[1101:32809] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 16:44:21.277 plugin-container[1101:32809] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494690338234	geckodriver	INFO	Listening on 127.0.0.1:52621
+1494690339291	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.sg6NpHSvyPUq
+1494690339292	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494690339296	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52634
+1494690340798	Marionette	INFO	Listening on port 52634
+1494690340860	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 16:45:41.161 plugin-container[1114:33523] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 16:45:41.162 plugin-container[1114:33523] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1494690724261	geckodriver	INFO	Listening on 127.0.0.1:52874
+1494690725319	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.Kick7QvCvr37
+1494690725320	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494690725322	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52887
+1494690726886	Marionette	INFO	Listening on port 52887
+1494690726974	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 16:52:07.249 plugin-container[1137:36503] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 16:52:07.250 plugin-container[1137:36503] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494690771356	geckodriver	INFO	Listening on 127.0.0.1:53104
+1494690772419	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.UAJC1R3oGaZW
+1494690772419	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494690772422	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53117
+1494690774077	Marionette	INFO	Listening on port 53117
+1494690774127	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 16:52:54.475 plugin-container[1147:37046] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 16:52:54.477 plugin-container[1147:37046] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494690796296	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1494690796300	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1494690837647	geckodriver	INFO	Listening on 127.0.0.1:53315
+1494690838771	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.IVcFXs5vxqo0
+1494690838772	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494690838774	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53328
+1494690840496	Marionette	INFO	Listening on port 53328
+1494690840557	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 16:54:00.892 plugin-container[1155:37728] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 16:54:00.893 plugin-container[1155:37728] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript error: https://assets.asosservices.com/identity/widgets/standalone/sdk.1.0.1.js, line 9113: TypeError: oidc.customer(...) is undefined
+JavaScript error: https://assets.asosservices.com/identity/widgets/standalone/sdk.1.0.1.js, line 9113: TypeError: oidc.customer(...) is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494690994545	geckodriver	INFO	Listening on 127.0.0.1:53728
+1494690995606	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.b4ZIKwYbO40n
+1494690995607	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494690995609	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53741
+1494690997256	Marionette	INFO	Listening on port 53741
+1494690997301	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 16:56:37.640 plugin-container[1171:39521] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 16:56:37.641 plugin-container[1171:39521] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+console.error: 
+  Message: Error: Source map at http://assets.asosservices.com/MasterLayout/Stylesheets/MasterLayout/Asos.Utils.MediaPlayers.min.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:579:27
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+_fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:579:27
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:917:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+console.error: 
+  Protocol error (unknownError): Source map at http://assets.asosservices.com/MasterLayout/Stylesheets/MasterLayout/Asos.Utils.MediaPlayers.min.css.map not found or invalid
+1494691113163	geckodriver	INFO	Listening on 127.0.0.1:53979
+1494691114225	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.LBKXyTYTDjqr
+1494691114226	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494691114229	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53992
+1494691115744	Marionette	INFO	Listening on port 53992
+1494691115793	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 16:58:36.116 plugin-container[1189:40513] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 16:58:36.118 plugin-container[1189:40513] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494691272013	geckodriver	INFO	Listening on 127.0.0.1:54254
+1494691273071	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.8OCTleDKcWUn
+1494691273072	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494691273075	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54267
+1494691274565	Marionette	INFO	Listening on port 54267
+1494691274631	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:01:14.936 plugin-container[1216:41657] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:01:14.939 plugin-container[1216:41657] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+2017-05-13 17:02:43.248 plugin-container[1231:42216] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:02:43.250 plugin-container[1231:42216] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:06:34.340 plugin-container[1234:43309] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:06:34.342 plugin-container[1234:43309] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1494691612640	geckodriver	INFO	Listening on 127.0.0.1:54817
+1494691613700	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.xEScHuE77PcZ
+1494691613700	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494691613703	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54830
+1494691615337	Marionette	INFO	Listening on port 54830
+1494691615384	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:06:55.720 plugin-container[1246:43745] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:06:55.722 plugin-container[1246:43745] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494691775378	geckodriver	INFO	Listening on 127.0.0.1:55138
+1494691776435	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.6zIMxsEFLUR4
+1494691776436	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494691776440	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55151
+1494691777948	Marionette	INFO	Listening on port 55151
+1494691778008	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:09:38.315 plugin-container[1264:44950] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:09:38.317 plugin-container[1264:44950] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494691859240	geckodriver	INFO	Listening on 127.0.0.1:55359
+1494691860292	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.uVoPqHHmrksN
+1494691860293	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494691860295	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55372
+1494691861825	Marionette	INFO	Listening on port 55372
+1494691861870	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:11:02.203 plugin-container[1278:45603] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:11:02.205 plugin-container[1278:45603] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494691912355	geckodriver	INFO	Listening on 127.0.0.1:55612
+1494691913413	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.yHRPi5EqvZhT
+1494691913414	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494691913417	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55625
+1494691914943	Marionette	INFO	Listening on port 55625
+1494691914990	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:11:55.322 plugin-container[1288:46261] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:11:55.324 plugin-container[1288:46261] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494692082697	geckodriver	INFO	Listening on 127.0.0.1:55921
+1494692083754	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.KFWzcSQ9mgJV
+1494692083754	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494692083757	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55934
+1494692085251	Marionette	INFO	Listening on port 55934
+1494692085320	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:14:45.620 plugin-container[1308:47590] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:14:45.621 plugin-container[1308:47590] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494692138468	geckodriver	INFO	Listening on 127.0.0.1:56146
+1494692139526	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.VswaMP6P2zFy
+1494692139527	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494692139530	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56159
+1494692141036	Marionette	INFO	Listening on port 56159
+1494692141101	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:15:41.403 plugin-container[1321:48190] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:15:41.405 plugin-container[1321:48190] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494692403385	geckodriver	INFO	Listening on 127.0.0.1:56377
+1494692404501	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.OQqPsc5iWFld
+1494692404502	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494692404504	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56390
+1494692406182	Marionette	INFO	Listening on port 56390
+1494692406270	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:20:06.562 plugin-container[1333:49772] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:20:06.563 plugin-container[1333:49772] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494692759673	geckodriver	INFO	Listening on 127.0.0.1:56685
+1494692760731	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.dA2Gezboo5bc
+1494692760732	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494692760734	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56698
+1494692762246	Marionette	INFO	Listening on port 56698
+1494692762294	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:26:02.623 plugin-container[1346:51534] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:26:02.625 plugin-container[1346:51534] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494692783586	geckodriver	INFO	Listening on 127.0.0.1:56938
+1494692784643	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.J7rQqYf7zz7I
+1494692784644	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494692784647	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56953
+1494692786152	Marionette	INFO	Listening on port 56953
+1494692786221	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:26:26.526 plugin-container[1355:51955] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:26:26.528 plugin-container[1355:51955] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494693002813	geckodriver	INFO	Listening on 127.0.0.1:57161
+1494693003944	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.7MESON9qeSMF
+1494693003945	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494693003947	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57174
+1494693005548	Marionette	INFO	Listening on port 57174
+1494693005614	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:30:05.905 plugin-container[1375:53259] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:30:05.907 plugin-container[1375:53259] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494693228245	geckodriver	INFO	Listening on 127.0.0.1:57468
+1494693229300	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.T6Cj97E71Gh5
+1494693229301	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494693229304	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57481
+1494693230802	Marionette	INFO	Listening on port 57481
+1494693230863	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:33:51.167 plugin-container[1386:54296] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:33:51.169 plugin-container[1386:54296] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494693592476	geckodriver	INFO	Listening on 127.0.0.1:57703
+1494693593534	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.HDTlOYEdopi6
+1494693593535	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494693593538	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57716
+1494693595013	Marionette	INFO	Listening on port 57716
+1494693595094	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:39:55.380 plugin-container[1405:56251] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:39:55.382 plugin-container[1405:56251] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494693658317	geckodriver	INFO	Listening on 127.0.0.1:57976
+1494693659371	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.GS08m2vFxUeA
+1494693659372	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494693659374	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57990
+1494693661011	Marionette	INFO	Listening on port 57990
+1494693661053	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:41:01.391 plugin-container[1415:56866] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:41:01.393 plugin-container[1415:56866] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494693929647	geckodriver	INFO	Listening on 127.0.0.1:58207
+1494693930704	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.DD8zUq6YpOpP
+1494693930704	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494693930707	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58220
+1494693932190	Marionette	INFO	Listening on port 58220
+1494693932274	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:45:32.556 plugin-container[1434:58657] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:45:32.559 plugin-container[1434:58657] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494694021013	geckodriver	INFO	Listening on 127.0.0.1:58422
+1494694022070	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.D9Rrr61E6bDK
+1494694022072	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494694022074	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58435
+1494694023631	Marionette	INFO	Listening on port 58435
+1494694023741	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:47:04.021 plugin-container[1444:59424] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:47:04.023 plugin-container[1444:59424] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494694253755	geckodriver	INFO	Listening on 127.0.0.1:58649
+1494694254813	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.3ktXTn5v3aKb
+1494694254814	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494694254816	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58662
+1494694256315	Marionette	INFO	Listening on port 58662
+1494694256386	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:50:56.685 plugin-container[1461:60504] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:50:56.687 plugin-container[1461:60504] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494694434190	geckodriver	INFO	Listening on 127.0.0.1:58929
+1494694435245	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.yJZSioQrTt2t
+1494694435245	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494694435248	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58942
+1494694436804	Marionette	INFO	Listening on port 58942
+1494694436851	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:53:57.177 plugin-container[1472:61393] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:53:57.179 plugin-container[1472:61393] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494694479789	geckodriver	INFO	Listening on 127.0.0.1:59144
+1494694480845	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.1Pfr2sqQei4B
+1494694480846	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494694480849	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59157
+1494694482348	Marionette	INFO	Listening on port 59157
+1494694482414	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:54:42.724 plugin-container[1481:61889] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:54:42.726 plugin-container[1481:61889] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494694781544	geckodriver	INFO	Listening on 127.0.0.1:59377
+1494694782602	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.aZhzjBUq7pDz
+1494694782603	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494694782606	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59390
+1494694784292	Marionette	INFO	Listening on port 59390
+1494694784374	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 17:59:44.678 plugin-container[1504:63446] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 17:59:44.681 plugin-container[1504:63446] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript error: https://assets.asosservices.com/MasterLayout/Javascript/MasterLayout/core.0.4.3.min.js, line 34: Error: Script error for "Category/Category.Controller.Desktop"
+http://requirejs.org/docs/errors.html#scripterror
+1494694833305	geckodriver	INFO	Listening on 127.0.0.1:59621
+1494694834366	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.Z7WGVvEPhPgd
+1494694834367	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494694834370	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59634
+1494694835967	Marionette	INFO	Listening on port 59634
+1494694836036	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:00:36.338 plugin-container[1516:64066] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:00:36.340 plugin-container[1516:64066] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://assets.asosservices.com/identity/widgets/standalone/sdk.1.0.1.js, line 8452: Error: Failed to load signing keys (undefined)
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494694856350	geckodriver	INFO	Listening on 127.0.0.1:59901
+1494694857409	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.NKSIJZT1fDFJ
+1494694857410	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494694857413	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59914
+1494694859076	Marionette	INFO	Listening on port 59914
+1494694859189	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:00:59.460 plugin-container[1522:64454] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:00:59.462 plugin-container[1522:64454] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494695087535	geckodriver	INFO	Listening on 127.0.0.1:60334
+1494695088592	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.JAWweK4YppdA
+1494695088593	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494695088596	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60347
+1494695090089	Marionette	INFO	Listening on port 60347
+1494695090150	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:04:50.450 plugin-container[1536:65951] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:04:50.452 plugin-container[1536:65951] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript error: http://resources.asosservices.com/productpage/1.3.1356/Asos.Product.Page.Web.prod.js, line 2: TypeError: e.message[0] is undefined
+1494695140695	geckodriver	INFO	Listening on 127.0.0.1:60605
+1494695141750	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.ZU2TjtCSgIzz
+1494695141751	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494695141753	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60618
+1494695143273	Marionette	INFO	Listening on port 60618
+1494695143323	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:05:43.654 plugin-container[1549:66586] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:05:43.656 plugin-container[1549:66586] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript error: https://assets.asosservices.com/identity/widgets/standalone/sdk.1.0.1.js, line 9113: TypeError: oidc.customer(...) is undefined
+JavaScript error: https://assets.asosservices.com/identity/widgets/standalone/sdk.1.0.1.js, line 9113: TypeError: oidc.customer(...) is undefined
+1494695197295	geckodriver	INFO	Listening on 127.0.0.1:60852
+1494695198351	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.bHBQaSGbHlJr
+1494695198352	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494695198355	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60865
+1494695199868	Marionette	INFO	Listening on port 60865
+1494695199919	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:06:40.356 plugin-container[1556:67197] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:06:40.361 plugin-container[1556:67197] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa003, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494695233398	geckodriver	INFO	Listening on 127.0.0.1:61117
+1494695234457	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.4PulZBLbZMSb
+1494695234458	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494695234461	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61130
+1494695236058	Marionette	INFO	Listening on port 61130
+1494695236136	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:07:16.440 plugin-container[1567:67708] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:07:16.442 plugin-container[1567:67708] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494695754420	geckodriver	INFO	Listening on 127.0.0.1:61384
+1494695755476	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.pr8TXw6PrKkx
+1494695755477	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494695755480	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61397
+1494695757006	Marionette	INFO	Listening on port 61397
+1494695757048	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:15:57.366 plugin-container[1589:70334] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:15:57.369 plugin-container[1589:70334] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494695965262	geckodriver	INFO	Listening on 127.0.0.1:61632
+1494695966323	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.SQO8j2aXa5pU
+1494695966324	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494695966327	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61645
+1494695967915	Marionette	INFO	Listening on port 61645
+1494695967993	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:19:28.289 plugin-container[1601:71477] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:19:28.291 plugin-container[1601:71477] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494696047603	geckodriver	INFO	Listening on 127.0.0.1:61876
+1494696048715	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.OaUwxrOQD2Cu
+1494696048716	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494696048718	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61889
+1494696050304	Marionette	INFO	Listening on port 61889
+1494696050391	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:20:50.678 plugin-container[1612:72301] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:20:50.680 plugin-container[1612:72301] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494696095386	geckodriver	INFO	Listening on 127.0.0.1:62108
+1494696096448	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.SsPLnICFCSaQ
+1494696096449	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494696096453	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62121
+1494696098020	Marionette	INFO	Listening on port 62121
+1494696098117	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:21:38.406 plugin-container[1628:72909] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:21:38.408 plugin-container[1628:72909] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa003, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494696132413	geckodriver	INFO	Listening on 127.0.0.1:62341
+1494696133470	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.ejqzxG0bKIhm
+1494696133470	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494696133473	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62354
+1494696134981	Marionette	INFO	Listening on port 62354
+2017-05-13 18:22:15.308 plugin-container[1645:73379] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:22:15.310 plugin-container[1645:73379] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1494696159141	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1494696159144	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1494696169008	geckodriver	INFO	Listening on 127.0.0.1:62406
+1494696170062	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.B6RhhQLBSUYo
+1494696170063	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494696170066	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62419
+1494696171556	Marionette	INFO	Listening on port 62419
+1494696171628	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:22:51.936 plugin-container[1652:73828] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:22:51.938 plugin-container[1652:73828] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494696186659	Marionette	INFO	New connections will no longer be accepted
+1494696261510	geckodriver	INFO	Listening on 127.0.0.1:62635
+1494696262567	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.Vtir0kZeukHR
+1494696262567	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494696262570	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62648
+1494696264069	Marionette	INFO	Listening on port 62648
+1494696264133	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:24:24.437 plugin-container[1672:74925] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:24:24.440 plugin-container[1672:74925] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494696280670	Marionette	INFO	New connections will no longer be accepted
+1494696495230	geckodriver	INFO	Listening on 127.0.0.1:62874
+1494696496284	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.ieO0vQNst32z
+1494696496285	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494696496288	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62887
+1494696497802	Marionette	INFO	Listening on port 62887
+1494696497859	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:28:18.165 plugin-container[1716:76860] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:28:18.167 plugin-container[1716:76860] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494696519990	Marionette	INFO	New connections will no longer be accepted
+1494696542932	geckodriver	INFO	Listening on 127.0.0.1:63106
+1494696543991	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.b4XTEjwqoymF
+1494696543992	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494696543995	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63119
+1494696545495	Marionette	INFO	Listening on port 63119
+1494696545553	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:29:05.860 plugin-container[1728:77943] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:29:05.861 plugin-container[1728:77943] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494696560016	Marionette	INFO	New connections will no longer be accepted
+1494696568600	geckodriver	INFO	Listening on 127.0.0.1:63327
+1494696569658	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.7osXBOXZI7aW
+1494696569659	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494696569662	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63340
+1494696571308	Marionette	INFO	Listening on port 63340
+1494696571354	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:29:31.687 plugin-container[1736:78779] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:29:31.689 plugin-container[1736:78779] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494696587956	Marionette	INFO	New connections will no longer be accepted
+1494696606152	geckodriver	INFO	Listening on 127.0.0.1:63561
+1494696607208	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.0C1HqG3SRp70
+1494696607209	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494696607211	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63574
+1494696608710	Marionette	INFO	Listening on port 63574
+1494696608772	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:30:09.078 plugin-container[1747:79689] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:30:09.080 plugin-container[1747:79689] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494696625743	Marionette	INFO	New connections will no longer be accepted
+1494696687513	geckodriver	INFO	Listening on 127.0.0.1:63786
+1494696688571	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.jSJQtdHuo3dG
+1494696688572	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494696688575	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63799
+1494696690079	Marionette	INFO	Listening on port 63799
+1494696690137	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:31:30.437 plugin-container[1774:80799] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:31:30.439 plugin-container[1774:80799] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494696704687	Marionette	INFO	New connections will no longer be accepted
+[Child 1774] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1494696722903	geckodriver	INFO	Listening on 127.0.0.1:63998
+1494696723962	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.hJUC7ikUHHSZ
+1494696723963	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494696723965	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64011
+1494696725487	Marionette	INFO	Listening on port 64011
+1494696725532	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:32:05.862 plugin-container[1784:81701] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:32:05.864 plugin-container[1784:81701] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494696740725	Marionette	INFO	New connections will no longer be accepted
+[Child 1784] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1494696867277	geckodriver	INFO	Listening on 127.0.0.1:64253
+1494696868337	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.r2u9PKN3nuwZ
+1494696868338	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494696868340	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64266
+1494696869821	Marionette	INFO	Listening on port 64266
+1494696869903	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:34:30.197 plugin-container[1808:83269] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:34:30.199 plugin-container[1808:83269] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+1494696885236	Marionette	INFO	New connections will no longer be accepted
+1494696893808	geckodriver	INFO	Listening on 127.0.0.1:64459
+1494696894861	mozprofile::profile	INFO	Using profile path /var/folders/hm/f8zhvj8j1w12ffx1npl9k1280000gn/T/rust_mozprofile.Dtv9NMOwxLrL
+1494696894862	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1494696894865	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64472
+1494696896369	Marionette	INFO	Listening on port 64472
+1494696896433	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-13 18:34:56.735 plugin-container[1818:84123] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-13 18:34:56.737 plugin-container[1818:84123] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://assets.asosservices.com/lpsa/js/mu/mu-bundle/lp-hp-bundle-1.0.144.0.min.js#CO, line 6: TypeError: t is undefined
+JavaScript error: https://assets.asosservices.com/identity/widgets/standalone/sdk.1.0.1.js, line 9113: TypeError: oidc.customer(...) is undefined
+JavaScript error: https://assets.asosservices.com/identity/widgets/standalone/sdk.1.0.1.js, line 9113: TypeError: oidc.customer(...) is undefined
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1494696911590	Marionette	INFO	New connections will no longer be accepted

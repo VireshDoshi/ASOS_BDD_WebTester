@@ -7,6 +7,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import Select
 
+import time
+
 
 
 
@@ -21,6 +23,7 @@ def before_all(context):
     context.TimeoutException = TimeoutException
     context.ActionChains = ActionChains
     context.Select = Select
+    context.time = time
 
 
 def after_all(context):
