@@ -15,7 +15,7 @@ import time
 
 
 
-def checkIfItemsArePresent(driver, className, termToSearch, stopAtFirstOccurance = False):
+def checkIfItemsArePresent(driver, className, termToSearch):
     #TODO - cant just search name, needs to be product list
     time.sleep(3)
     # Loop through all displayed clothes and see if it contains purple.
@@ -27,8 +27,6 @@ def checkIfItemsArePresent(driver, className, termToSearch, stopAtFirstOccurance
         if lowerCase or firstLetterCapital in name:
             print('Success!! ---> Found {} in product names'.format(termToSearch))
             return True
-            if stopAtFirstOccurance:
-                break
 
 def clickOnMensShirts(driver, actionChains, country):
     shirt = driver.find_element_by_xpath('//a[@href="' + country + 'men/shirts/cat/?cid=3602"]')
