@@ -9,7 +9,7 @@ def step_impl(context):
     try:
         #Select a size, in this case we want S - Chest 91-96 cm which is located at index 2 of the dropdown.
         size = context.Select(context.driver.find_element_by_xpath("//div[@id='product-size']/section/div/div/div[2]/select"))
-        size.select_by_index(2)
+        size.select_by_index(3)
         selectedSize = size.all_selected_options
         assert selectedSize[0].text == 'S - Chest 91-96 cm'
     except:
