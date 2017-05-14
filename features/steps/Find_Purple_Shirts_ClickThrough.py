@@ -24,7 +24,7 @@ def step_impl(context):
 @then('I should see some purple t shirts')
 def step_impl(context):
     #Loop through the items displayed on the page to see if they contain the word Purple
-    assert UT.checkIfItemsArePresent(context.driver, 'name', 'purple', True)
+    assert UT.checkIfItemsArePresent(context.driver, 'name', 'purple')
 
 
 
