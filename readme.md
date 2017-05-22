@@ -23,6 +23,7 @@ https://github.com/mozilla/geckodriver/releases
 TO RUN:
 In terminal / cmd
 ```
+cd into ASOS_BDD_WebTester/features
 behave
 ```
 
