@@ -1,27 +1,17 @@
-from selenium import webdriver
+from Page_Objects import driverFactory as DF
+from Page_Objects import basePage as BPO
+from Page_Objects import bag
+from Page_Objects import savedItem
 
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.action_chains import ActionChains
-
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import Select
-
-from selenium.common.exceptions import TimeoutException
-
-import time
-
+#Context is shared accross all instances of the test so we assing certain variable to it here.
 def before_scenario(context, scenario):
-    driver = webdriver.Firefox()
-    context.driver = driver
-    context.driver.implicitly_wait(10)
-    context.keys = Keys
-    context.WebDriverWait = WebDriverWait
-    context.EC = EC
-    context.TimeoutException = TimeoutException
-    context.ActionChains = ActionChains
-    context.Select = Select
-    context.time = time
+    #Get driver from driver factory
+    context.driver = DF.DriverFactory().get_web_driver()
+    #Create a basePageObject and assign it to context
+    context.basePageObject = BPO.BasePage(context.driver)
+    context.bagPageObject = bag.Bag(context.driver)
+    context.savedItemObject = savedItem.SavedItem(context.driver)
+
 
 
 def after_scenario(context, scenario):
