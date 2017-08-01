@@ -1,5 +1,5 @@
 
-from Page_Objects.basePage import BasePage
+from basePage import BasePage
 
 '''
 
