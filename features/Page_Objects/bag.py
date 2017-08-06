@@ -10,7 +10,9 @@ from basePage import BasePage
 
 
 '''
-#Inherits base Page and extends functionality
+# Inherits base Page and extends functionality
+
+
 class Bag(BasePage):
 
     def checkItemsInMyBag(self):
@@ -20,7 +22,6 @@ class Bag(BasePage):
         if subTotalPrice.text[1:] != '00.00':
             print('Success!! ---> Found items in bag')
             return True
-
 
     def checkBagQuantity(self):
         self.wait(4)

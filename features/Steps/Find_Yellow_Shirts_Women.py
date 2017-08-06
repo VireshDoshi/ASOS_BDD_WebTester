@@ -3,7 +3,7 @@ from behave import *
 
 @when('I search for yellow t shirts in the searchbar')
 def step_impl(context):
-    #Find , clear and then enter text into the search bar
+    # Find , clear and then enter text into the search bar
     context.basePageObject.set_text('Class', "search-box", "yellow shirt")
 
 

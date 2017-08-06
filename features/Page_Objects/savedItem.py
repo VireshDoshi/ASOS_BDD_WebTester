@@ -1,14 +1,12 @@
-
-from Page_Objects.basePage import BasePage
+from basePage import BasePage
 
 '''
-
     Utility Function
      - checkSavedItems -> Checks if there is more than 0 items in the saved item list.
-
-
 '''
 #Inherits base Page and extends functionality
+
+
 class SavedItem(BasePage):
 
     def checkSavedItems(self):

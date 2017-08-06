@@ -1,12 +1,15 @@
 from selenium import webdriver
 
+
 '''
     Factory for webdrivers for each browser, defaults to firefox
 '''
+
+
 class DriverFactory():
+
     def __init__(self, browser='ff',):
         self.browser = browser
-
 
     def get_web_driver(self):
         if self.browser.lower() == "ff" or self.browser.lower() == 'firefox':

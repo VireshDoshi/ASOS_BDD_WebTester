@@ -10,8 +10,9 @@ def step_impl(context):
 def step_impl(context):
     context.savedItemObject.clickOnMensShirts(context.driver.current_url)
 
-    #Click on the purple checkbox
+    # Click on the purple checkbox
     context.savedItemObject.click_element('Xpath', '//div[8]/div/div/ul/li[13]/a/span[1]')
+
 
 @when('I click on an image of a shirt to take me to the product page')
 def step_impl(context):
@@ -19,6 +20,7 @@ def step_impl(context):
         context.savedItemObject.click_element('Xpath', "//section[@id='productlist-results']/div/div[3]/ul/li/a/div/img")
     except:
         raise Exception("Cannot Click on The Shirt Image")
+
 
 @when('I click the save symbol')
 def step_impl(context):
@@ -32,7 +34,7 @@ def step_impl(context):
 @then('I should see saved items in my saved item page')
 def step_impl(context):
 
-    #Check that saved items are in the saved items page.
+    # Check that saved items are in the saved items page.
     assert context.savedItemObject.checkSavedItems()
 
 
