@@ -14,7 +14,6 @@ def before_scenario(context, scenario):
     context.bagPageObject = bag.Bag(context.driver)
     context.savedItemObject = savedItem.SavedItem(context.driver)
 
-
 def after_scenario(context, scenario):
     # Quit the driver after each test has been ran.
     context.driver.quit()

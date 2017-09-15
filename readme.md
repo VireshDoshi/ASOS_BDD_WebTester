@@ -1,10 +1,54 @@
 # Selenium Testing with Behave in Python
 
 
+New changes in this forked version contain information on how to run this project in an isolated python virtual environment. 
+
+## Pre-requisites
+You will need to have python installed. In my case, I have python 2.7.10 installed.
+
+## Python Virtual environment 
+```
+$ sudo pip install virtualenvwrapper
+
+$ mkvirtualenv env1
+$ workon env1
+$ pip install -r requirements.txt
+```
+
+The following pip packages are required which are shown here for information.
+```
+$ pip freeze 
+ 
+
+ansible==2.3.1.0
+asn1crypto==0.22.0
+bcrypt==3.1.3
+behave==1.2.5
+cffi==1.10.0
+cryptography==2.0
+enum34==1.1.6
+idna==2.5
+ipaddress==1.0.18
+Jinja2==2.9.6
+MarkupSafe==1.0
+page-objects==1.1.0
+paramiko==2.2.1
+parse==1.8.2
+parse-type==0.3.4
+pyasn1==0.2.3
+pycparser==2.18
+pycrypto==2.6.1
+PyNaCl==1.1.2
+PyYAML==3.12
+selenium==3.4.3
+six==1.10.0
+
+```
+## Manual setup ( skip if using python virtual env)
 To get started, we'll need to ensure that Behave is installed. The easiest means of doing so is with Pip:
 
 ```
-pip install Behave
+$ pip install Behave
 ```
 
 Alternatively you can read [installation documenation](http://pythonhosted.org/behave/install.html) on the Behave website. 
@@ -13,18 +57,25 @@ Alternatively you can read [installation documenation](http://pythonhosted.org/b
 Next, we'll need to install Selenium:
 
 ```
-pip install selenium
+$ pip install selenium
 ```
+
+## Install the geckodriver
 
 Finally, we'll need to install gekodriver from :
 https://github.com/mozilla/geckodriver/releases
  (place this in your python directory).
+ ```
+$ wget 
+$ cp ~/geckodriver ~/.virtualenvs/env1/bin/python
+```
 
-TO RUN:
+## Execution
+
 In terminal / cmd
 ```
-cd into ASOS_BDD_WebTester/features
-behave
+cd into ASOS_BDD_WebTester
+$ behave
 ```
 
 
@@ -49,3 +100,9 @@ The python files are where the functions to perform website operations are store
             basePage   --> bag (bag operations)
                        --> savedItem (saved item operations)
             '''
+
+## Notes
+```
+useful link to selenium geckodriver
+https://stackoverflow.com/questions/40208051/selenium-using-python-geckodriver-executable-needs-to-be-in-path
+```
