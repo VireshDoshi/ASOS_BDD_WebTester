@@ -3,12 +3,15 @@ from behave import *
 
 @given('I want to order a shirt')
 def step_impl(context):
+
     # Go to the asos.com
     context.basePageObject.get()
 
 
 @when('I search for purple t shirts')
 def step_impl(context):
+
+
     context.basePageObject.clickOnMensShirts(context.driver.current_url)
 
     # Click on the purple checkbox

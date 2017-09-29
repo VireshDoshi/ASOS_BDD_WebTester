@@ -8,7 +8,7 @@ from selenium import webdriver
 
 class DriverFactory():
 
-    def __init__(self, browser='ff',):
+    def __init__(self, browser='firefox',):
         self.browser = browser
 
     def get_web_driver(self):

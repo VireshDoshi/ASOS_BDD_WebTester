@@ -176,6 +176,11 @@ The python files are where the functions to perform website operations are store
                        --> savedItem (saved item operations)
             '''
 
+## How does this work?
+
+environment.py - defines the codes to be executed before or after the events
+
+
 ## Notes
 ```
 useful link to selenium geckodriver

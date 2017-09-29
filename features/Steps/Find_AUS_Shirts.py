@@ -5,15 +5,17 @@ from behave import *
 
 @when('in the Australian store')
 def step_impl(context):
+
     # Change Country
     context.basePageObject.changeCountry("//div[@id='siteSelectorList']/ul/li[6]/a")
+
     context.websiteAddress = "http://www.asos.com/au/"
     context.basePageObject.wait(2)
     assert context.websiteAddress in context.driver.current_url
 
-
 @when('I search for yellow t shirts')
 def step_impl(context):
+
     # Get to the mens shirts page
     try:
         context.basePageObject.clickOnMensShirts(context.websiteAddress)
@@ -29,6 +31,7 @@ def step_impl(context):
 
 @then('I should see some yellow t shirts')
 def step_impl(context):
+
     #Loop through the items displayed on the page to see if they contain the word yellow
     assert context.basePageObject.checkIfItemsArePresent('name', 'yellow')
 

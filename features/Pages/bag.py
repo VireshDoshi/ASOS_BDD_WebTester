@@ -1,14 +1,10 @@
-
 from basePage import BasePage
 
 '''
-
     Utility Function
     - checkItemsInMyBag -> Check the subtotal price of your bag is greater than 00.00, this is how we assume that there is an item in your bag.
     - checkBagQuantity -> Check the amount of items in the bag.
     - clickOnBag -> Clicks on the bag icon.
-
-
 '''
 # Inherits base Page and extends functionality
 
@@ -19,6 +15,7 @@ class Bag(BasePage):
         self.wait(3)
         # Find the Subtotal price and we assume if the item value is >00.00 then there is an item there.
         subTotalPrice = self.get_class("bag-subtotal-price")
+
         if subTotalPrice.text[1:] != '00.00':
             print('Success!! ---> Found items in bag')
             return True

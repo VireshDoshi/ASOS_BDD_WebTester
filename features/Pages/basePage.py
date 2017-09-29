@@ -19,7 +19,6 @@ class BasePage(unittest.TestCase):
         self.driver = selenium_driver
         self.driver.implicitly_wait(10)
 
-
     def get(self, base_url='http://www.asos.com/'):
         # Append a / if there isn't one
         if base_url[-1] != '/':
@@ -29,6 +28,7 @@ class BasePage(unittest.TestCase):
         assert(base_url == str(self.driver.current_url))
 
     def open(self, url):
+
         "Visit the page base_url + url"
         url = self.base_url + url
         if self.driver.current_url != url:
@@ -36,30 +36,39 @@ class BasePage(unittest.TestCase):
         self.assertEqual(url, self.driver.current_url)
 
     def get_xpath(self, xpath):
+
         "Return the DOM element of the xpath OR the 'None' object if the element is not found"
         dom_element = None
         dom_element = self.driver.find_element_by_xpath(xpath)
         return dom_element
 
     def get_class(self, className):
+
         "Return the DOM element of the class OR the 'None' object if the element is not found"
         dom_element = None
         dom_element = self.driver.find_element_by_class_name(className)
         return dom_element
 
     def get_class_elements(self, className):
+
         "Return the DOM element of the class elements OR the 'None' object if the element is not found"
         dom_element = None
         dom_element = self.driver.find_elements_by_class_name(className)
         return dom_element
 
     def get_css(self, css):
-        "Return the DOM element of the css OR the 'None' object if the element is not found"
+        """
+        Return the DOM element of the css OR the 'None' object if the element is not found
+        :param css:
+        :return:
+        """
+
         dom_element = None
         dom_element = self.driver.find_element_by_css_selector(css)
         return dom_element
 
     def click_element(self, arg, path):
+
         "Click the button supplied"
         link = self.returnElement(arg, path)
         if link is not None:
@@ -94,8 +103,6 @@ class BasePage(unittest.TestCase):
         else:
             return None
 
-
-
     def get_dom_text(self, dom_element):
         "Return the text of a given DOM element or the 'None' object if the element has no attribute called text"
         text = ''
@@ -108,9 +115,16 @@ class BasePage(unittest.TestCase):
             return str(text)
 
     def select_dropdown_option(self, select_locator, option_text):
-        "Selects the option in the drop-down"
+        """
+        Selects the option in the drop-down
+
+        :param select_locator:
+        :param option_text:
+        :return:
+        """
         # dropdown = self.driver.find_element_by_id(select_locator)
         dropdown = self.driver.find_element_by_xpath(select_locator)
+
         for option in dropdown.find_elements_by_tag_name('option'):
             if option.text == option_text:
                 option.click()

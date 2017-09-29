@@ -5,14 +5,12 @@ from behave import *
 def step_impl(context):
     context.savedItemObject.get("http://www.asos.com/au/")
 
-
 @when('I search for purple t shirts AUS')
 def step_impl(context):
     context.savedItemObject.clickOnMensShirts(context.driver.current_url)
 
     # Click on the purple checkbox
     context.savedItemObject.click_element('Xpath', '//div[8]/div/div/ul/li[13]/a/span[1]')
-
 
 @when('I click on an image of a shirt to take me to the product page')
 def step_impl(context):
@@ -21,7 +19,6 @@ def step_impl(context):
     except:
         raise Exception("Cannot Click on The Shirt Image")
 
-
 @when('I click the save symbol')
 def step_impl(context):
     try:
@@ -29,7 +26,6 @@ def step_impl(context):
         context.savedItemObject.wait(3)
     except:
         raise Exception("Cannot Click on The Save Icon")
-
 
 @then('I should see saved items in my saved item page')
 def step_impl(context):

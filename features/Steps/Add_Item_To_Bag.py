@@ -6,6 +6,7 @@ def step_impl(context):
     try:
         #Select a size, in this case we want S - Chest 91-96 cm which is located at index 2 of the dropdown.
         size = context.bagPageObject.select_Item("//div[@id='product-size']/section/div/div/div[2]/select")
+
         size.select_by_visible_text('S - Chest 91-96 cm')
         selectedSize = size.all_selected_options
         assert selectedSize[0].text == 'S - Chest 91-96 cm'
