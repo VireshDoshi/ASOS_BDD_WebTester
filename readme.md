@@ -52,6 +52,9 @@ In terminal / cmd
 ```
 $ cd into ASOS_BDD_WebTester
 $ behave
+
+Execution with jUnit style reports in reports/ directory
+$ behave --junit
 ```
 
 ## Expected outcome
