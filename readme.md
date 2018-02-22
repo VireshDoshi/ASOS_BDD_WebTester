@@ -1,18 +1,26 @@
 # Selenium Testing with Behave in Python
 
 ![behave output](files/behave_console_output.png?raw=true)
-
-New changes in this forked version contain information on how to run this project in an isolated python virtual environment. 
+Note: The instructions provided will work on Centos 7. ( I have moved all dev work to Centos 7 from a MAC )
+New changes in this forked version contain information on how to run this project in an isolated python virtual environment and dockerised Selenium Grid
 
 ## Pre-requisites
 You will need to have python installed. In my case, I have python 2.7.10 installed.
+Docker and Docker-compose installed.
 
 ## Python Virtual environment 
+
+For more details, take a look at http://virtualenvwrapper.readthedocs.io/en/latest/install.html
 ```
 $ sudo pip install virtualenvwrapper
 
-$ mkvirtualenv env1
-$ workon env1
+
+$ export WORKON_HOME=$HOME/.virtualenvs
+$ export PROJECT_HOME=$HOME/Devel
+$ source /bin/virtualenvwrapper.sh ( use which command to locate this on your linux distro)
+
+$ mkvirtualenv bdd_env1
+$ workon bdd_env1
 $ pip install -r requirements.txt
 ```
 
@@ -20,57 +28,21 @@ The following pip packages are required which are shown here for information.
 ```
 $ pip freeze 
  
-
-ansible==2.3.1.0
-asn1crypto==0.22.0
-bcrypt==3.1.3
 behave==1.2.5
-cffi==1.10.0
-cryptography==2.0
-enum34==1.1.6
-idna==2.5
-ipaddress==1.0.18
-Jinja2==2.9.6
-MarkupSafe==1.0
 page-objects==1.1.0
-paramiko==2.2.1
-parse==1.8.2
-parse-type==0.3.4
-pyasn1==0.2.3
-pycparser==2.18
-pycrypto==2.6.1
-PyNaCl==1.1.2
-PyYAML==3.12
 selenium==3.4.3
-six==1.10.0
 
 ```
-## Manual setup ( skip if using python virtual env)
-To get started, we'll need to ensure that Behave is installed. The easiest means of doing so is with Pip:
-
+## Selenium Grid Setup
+Selenium Grid activation is done via docker using docker-compose files. This selenium grid contains a Chrome and Firefox browser.
 ```
-$ pip install Behave
+$ cd env/
+$ docker-compose up  ( with -d for detached mode)
+
+# to shutdown selenium grid
+$ docker-compose down 
 ```
-
-Alternatively you can read [installation documenation](http://pythonhosted.org/behave/install.html) on the Behave website. 
-
-
-Next, we'll need to install Selenium:
-
-```
-$ pip install selenium
-```
-
-## Install the geckodriver
-
-Finally, we'll need to install gekodriver from :
-https://github.com/mozilla/geckodriver/releases
- (place this in your python directory).
- ```
-$ wget 
-$ cp ~/geckodriver ~/.virtualenvs/env1/bin/python
-```
-
+Navigate to http://localhost:4444/grid/console to see the selenium Grid frontend
 ## Execution
 
 In terminal / cmd
