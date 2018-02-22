@@ -43,11 +43,14 @@ $ docker-compose up  ( with -d for detached mode)
 $ docker-compose down 
 ```
 Navigate to http://localhost:4444/grid/console to see the selenium Grid frontend
+
+![selenium_grid](files/screenshot_selenium-grid.png?raw=true)
+
 ## Execution
 
 In terminal / cmd
 ```
-cd into ASOS_BDD_WebTester
+$ cd into ASOS_BDD_WebTester
 $ behave
 ```
 
