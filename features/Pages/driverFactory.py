@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 
 '''
@@ -18,6 +19,9 @@ class DriverFactory():
             web_driver = webdriver.Ie()
         elif self.browser.lower() == "chrome":
             web_driver = webdriver.Chrome()
+        elif self.browser.lower() == "remote":
+            desired_caps = {'platform': 'LINUX', 'browserName': 'chrome'} 
+      	    web_driver = webdriver.Remote(command_executor='http://127.0.0.1:4444/wd/hub',desired_capabilities=desired_caps )
         else:
             print("DriverFactory does not know the browser: ", self.browser)
             web_driver = None

@@ -15,10 +15,11 @@ def before_all(context):
 
 def before_scenario(context, scenario):
     # Get the browser from the behave.ini file
-    browser = context.config.userdata.get("browser", "firefox")
-
+    user_browser = context.config.userdata.get("browser")
+    
     # Get driver from driver factory
-    context.driver = df.DriverFactory(browser=browser).get_web_driver()
+    context.driver = df.DriverFactory(browser=user_browser).get_web_driver()
+
 
     # Create a basePageObject and assign it to context
     context.basePageObject = bpo.BasePage(context.driver)
